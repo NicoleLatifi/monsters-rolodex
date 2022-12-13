@@ -4,6 +4,8 @@ Note: This project was bootstrapped with [Create React App](https://github.com/f
 
 Monsters Rolodex displays a list of generated Monsters. You can filter for a specific monster by entering their name in the search box.
 
+![Dec-13-2022 10-39-38](https://user-images.githubusercontent.com/59676637/207407261-305ab0d2-56a6-4578-9d2b-49dfe6b375fb.gif)
+
 The `main` branch is written with React Class Components. The `main-hooks` branch is written with React Functional Components and hooks.
 
 ## Available Scripts
