@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Monsters Rolodex
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Note: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Monsters Rolodex displays a list of generated Monsters. You can filter for a specific monster by entering their name in the search box.
+
+The `main` branch is written with React Class Components. The `main-hooks` branch is written with React Functional Components and hooks.
 
 ## Available Scripts
 
